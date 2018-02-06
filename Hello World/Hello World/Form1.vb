@@ -3,7 +3,7 @@
 Public Class Form1
     Private Sub PushButton_Click(sender As Object, e As EventArgs) Handles PushButton.Click
         ' Handle the clicking of "Push Me" button
-        Message.Text = "Button Clicked!"
+        Message.Text = "Hello World!"
     End Sub
 
     Private Sub PushButton_DoubleClick(sender As Object, e As EventArgs) Handles PushButton.DoubleClick

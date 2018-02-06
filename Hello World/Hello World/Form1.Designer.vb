@@ -27,10 +27,10 @@ Partial Class Form1
         Me.ExitButton = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
-        'Button1
+        'PushButton
         '
         Me.PushButton.Location = New System.Drawing.Point(170, 173)
-        Me.PushButton.Name = "Push"
+        Me.PushButton.Name = "PushButton"
         Me.PushButton.Size = New System.Drawing.Size(75, 23)
         Me.PushButton.TabIndex = 0
         Me.PushButton.Text = "Push Me"
@@ -43,10 +43,10 @@ Partial Class Form1
         Me.Message.Size = New System.Drawing.Size(249, 20)
         Me.Message.TabIndex = 1
         '
-        'Button2
+        'ExitButton
         '
         Me.ExitButton.Location = New System.Drawing.Point(170, 234)
-        Me.ExitButton.Name = "Exit"
+        Me.ExitButton.Name = "ExitButton"
         Me.ExitButton.Size = New System.Drawing.Size(75, 23)
         Me.ExitButton.TabIndex = 2
         Me.ExitButton.Text = "Exit"

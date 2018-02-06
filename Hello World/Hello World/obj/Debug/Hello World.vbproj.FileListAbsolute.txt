@@ -10,3 +10,15 @@ C:\Users\esroy\Desktop\VB Code\Hello World\Hello World\obj\Debug\Hello World.vbp
 C:\Users\esroy\Desktop\VB Code\Hello World\Hello World\obj\Debug\Hello World.exe
 C:\Users\esroy\Desktop\VB Code\Hello World\Hello World\obj\Debug\Hello World.xml
 C:\Users\esroy\Desktop\VB Code\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\bin\Debug\Hello World.xml
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\obj\Debug\Hello World.vbprojResolveAssemblyReference.cache
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\obj\Debug\Hello_World.Resources.resources
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\obj\Debug\Hello World.vbproj.GenerateResource.Cache
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\obj\Debug\Hello World.vbproj.CoreCompileInputs.cache
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\obj\Debug\Hello World.xml
+C:\Users\esroy\Desktop\Visual-Basic-Course\Hello World\Hello World\obj\Debug\Hello World.pdb
